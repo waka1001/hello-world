@@ -1,2 +1,2 @@
 # hello-world
-Tencent Company
+Tencent Company Limited.
